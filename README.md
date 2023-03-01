@@ -4,9 +4,12 @@
 This is a small project to use Terraform to launch an AWS EC2 instance. In the **main.tf** configuration file, we setup the code to provision an EC2 insatnce.
 
 # How to Provision
-* Execute the command **"terraform init"** to initialize the working directory and download the Terraform Docker Provider
+* You should have Terraform and AWS CLI installed.
+* AWS Account to use for provisioning the infrastructure.
+* Setup the configuration files and then follow the below steps - 
+* Execute the command **"terraform init"** to initialize the working directory 
 * Execute the command **"terraform apply"** to provision the infrastructure.
-* The infrastructure can be destroyed using **"terraform destroy"** command
+* The infrastructure can be destroyed using **"terraform destroy"** command - Please use this only when the infrastructure would no longer be used.
 
 # Detailed steps and information
 Read more on the link [<a href="https://medium.com/p/8d88463193ed">Here</a>] for detailed steps to install and configure the EC2 instance on AWS Cloud.
