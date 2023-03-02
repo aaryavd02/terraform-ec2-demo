@@ -12,7 +12,7 @@ This is a small project to use Terraform to launch an AWS EC2 instance. In the *
 * The infrastructure can be destroyed using **"terraform destroy"** command - Please use this only when the infrastructure would no longer be used.
 
 # Detailed steps and information
-Read more on the link [<a href="https://medium.com/p/8d88463193ed">Here</a>] for detailed steps to install and configure the EC2 instance on AWS Cloud.
+Read more on the link [<a href="https://medium.com/@aaryavd02/how-to-use-terraform-to-provision-an-aws-ec2-instance-8d88463193ed">Here</a>] for detailed steps to install and configure the EC2 instance on AWS Cloud.
 
 #
 
